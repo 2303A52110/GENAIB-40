@@ -4,4 +4,5 @@ Assignment-1 : https://github.com/2303A52110/GENAIB-40/blob/main/Assignment-01.i
 Assignment-2 : https://github.com/2303A52110/GENAIB-40/blob/main/Assignment-02.ipynb                              
 Assignment-3 : https://github.com/2303A52110/GENAIB-40/blob/main/Assignment-03.ipynb                                 
 Assignment-4 : https://github.com/2303A52110/GENAIB-40/blob/main/Assignment-04.ipynb                  
-Assignment-5 : https://github.com/2303A52110/GENAIB-40/blob/main/Assignment-05.ipynb                                
+Assignment-5 : https://github.com/2303A52110/GENAIB-40/blob/main/Assignment-05.ipynb                     
+Assignment-6 : https://github.com/2303A52110/GENAIB-40/blob/main/Assignment-06.ipynb                                   
